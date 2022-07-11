@@ -6,6 +6,7 @@
 /**
   Arduino Consult Example
   June 12th 2011 - Stephen Powis (edrsp@mindspring.com)
+  Edited Dronus4x4 (dronus@gmail.com) to suit 2001-2004 GU Patrol (Australia)
 
   Note:
     This example makes the assumption you have an LCD panel hooked up
